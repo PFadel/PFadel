@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**PFadel/PFadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ... me
+- He/him.
+- :dog2: Dog lover.
+- :white_check_mark: Go | Python | Automated Tests .
+- :musical_note: Music lover. Follow me on [spotify](https://open.spotify.com/user/fadel__?si=h7OIkivRS4ejvC_YAqwlnQ).
+- :computer: PC Master Race gamer.
+- 🌎 Rio de Janeiro, Brasil.
 
-Here are some ideas to get you started:
+#### ... what I do
+- 💚 Tech Lead of a development team at [@stone-payments](https://github.com/stone-payments).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ... my background
+- 🏫 Technical degree in Data Processing (CEFET-RJ) (2009-2012)
+- 🏫 Computer Science student (UFF) (2013.............2021 - still working on my final project)
+- ⏳ ~5 yrs of XP in tech, mainly in web development.
+
+#### ... and the technical content I produce
+- 🎤 I've talked around a couple of events throughout the years (mostly in Portuguese) and the slides can be found [here](https://github.com/PFadel/go-presentations).
+- 🤓 I like tweeting, retweeting and reading technical stuff on [Twitter](https://twitter.com/justpedrofadel).
+
+### ... stats
+
+[![PFadel's github stats](https://github-readme-stats.vercel.app/api?username=PFadel&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
