@@ -24,4 +24,4 @@
 
 [![PFadel's github stats](https://github-readme-stats.vercel.app/api?username=PFadel&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![PFadel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PFadel&hide=html&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![PFadel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PFadel&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
