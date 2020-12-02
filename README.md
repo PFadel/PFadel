@@ -12,7 +12,7 @@
 - 💚 Tech Lead of a development team at [@stone-payments](https://github.com/stone-payments).
 
 #### ... my background
-- 🏫 Technical degree in Data Processing (CEFET-RJ) (2009-2012)
+- 🏫 Technical degree in Computing (CEFET-RJ) (2009-2012)
 - 🏫 Computer Science student (UFF) (2013.............2021 - still working on my final project)
 - ⏳ ~5 yrs of XP in tech, mainly in web development.
 
