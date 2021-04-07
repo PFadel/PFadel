@@ -11,7 +11,7 @@
 
 ## ... what I do
 
-- 💚 Software developer at [@stone-payments](https://github.com/olist).
+- 💚 Software developer at [@olist](https://github.com/olist).
 
 ## ... my background
 
