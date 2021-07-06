@@ -16,7 +16,7 @@
 ## ... my background
 
 - 🏫 Technical degree in Computing (CEFET-RJ) (2009-2012)
-- 🏫 Computer Science student (UFF) (2013.............2021 - still working on my final project)
+- 🏫 Computer Science student (UFF)
 - ⏳ ~5 yrs of XP in tech, mainly in web development.
 
 ## ... and the technical content I produce
