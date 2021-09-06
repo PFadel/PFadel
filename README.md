@@ -11,7 +11,7 @@
 
 ## ... what I do
 
-- 💚 Software developer at [@olist](https://github.com/olist).
+- 💚 Software developer at [@TAG](https://github.com/tag-trade-repository).
 
 ## ... my background
 
