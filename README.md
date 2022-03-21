@@ -11,7 +11,7 @@
 
 ## ... what I do
 
-- 💚 Software developer at [@TAG](https://github.com/tag-trade-repository).
+- 💚 Software developer at [@Nomo](https://github.com/NomoTechnology).
 
 ## ... my background
 
