@@ -5,7 +5,7 @@
 - He/him.
 - :dog2: Dog lover.
 - :white_check_mark: Go and Python are my main programing languages, but I like to experiment with different technologies sometimes.
-- ☀️ Phoenix Suns fan.
+- ☀️ Phoenix Suns fan 🏀.
 - :musical_note: Music lover. Follow me on [spotify](https://open.spotify.com/user/fadel__?si=h7OIkivRS4ejvC_YAqwlnQ).
 - :computer: PC Master Race gamer.
 - 🌎 Rio de Janeiro, Brasil.
