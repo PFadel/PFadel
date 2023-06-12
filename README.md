@@ -23,7 +23,6 @@
 ## ... and the technical content I produce
 
 - 🎤 I've talked around a couple of events throughout the years (mostly in Portuguese) and the slides can be found [here](https://github.com/PFadel/go-presentations).
-- 🤓 I like tweeting, retweeting (also mostly in Portuguese) and reading technical stuff on [Twitter](https://twitter.com/justpedrofadel).
 
 ## ... stats
 
