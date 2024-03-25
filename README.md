@@ -18,7 +18,7 @@
 
 - 🏫 Technical degree in Computing (CEFET-RJ)
 - 🏫 Computer Science (UFF)
-- ⏳ ~8 yrs of XP in tech, mainly in web development.
+- ⏳ ~9 yrs of XP in tech, mainly in web development.
 
 ## ... and the technical content I produce
 
