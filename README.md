@@ -5,7 +5,6 @@
 - He/him.
 - :dog2: Dog lover.
 - :white_check_mark: Go and Python are my main programing languages, but I love to experiment with different technologies sometimes.
-- Right now working with typescript & NodeJS 
 - ☀️ Phoenix Suns fan 🏀.
 - :musical_note: Music lover. Follow me on [spotify](https://open.spotify.com/user/fadel__?si=h7OIkivRS4ejvC_YAqwlnQ).
 - :computer: PC Master Race gamer.
@@ -13,7 +12,9 @@
 
 ## ... what I do
 
-- 💚 Software developer at [@Nomo](https://github.com/NomoTechnology).
+- 💚 Senior Software developer at [@Wave](https://github.com/NomoTechnology).
+- Right now working mostly with typescript & NodeJS.
+- Experience with GCP and Terraform.
 
 ## ... my background
 
