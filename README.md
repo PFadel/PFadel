@@ -9,10 +9,10 @@
 - :musical_note: Music lover. Follow me on [spotify](https://open.spotify.com/user/fadel__?si=h7OIkivRS4ejvC_YAqwlnQ).
 - :computer: PC Master Race gamer.
 - 🌎 Rio de Janeiro, Brasil.
+- 30 year old;
 
-## ... what I do
+## ... what I doing
 
-- 💚 Senior Software developer at [@Wave](https://github.com/NomoTechnology).
 - Right now working mostly with typescript & NodeJS.
 - Experience with GCP and Terraform.
 
