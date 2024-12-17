@@ -12,7 +12,7 @@
 
 ## ... what I do
 
-- 💚 Senior Software developer at [@Wave](https://github.com/NomoTechnology).
+- 💚 Senior Software developer at [@Wave](https://github.com/wave-telecom).
 - Right now working mostly with typescript & NodeJS.
 - Experience with GCP and Terraform.
 
